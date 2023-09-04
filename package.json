@@ -13,7 +13,7 @@
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.9.3",
-    "parcel-plugin-ogimage": "^1.2.0",
+    "parcel-transformer-meta-image": "^1.0.4",
     "postcss": "^8.4.28",
     "tailwindcss": "^3.3.3"
   }
